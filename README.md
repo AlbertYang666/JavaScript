@@ -6,7 +6,7 @@ JavaScript教程，分享自己学习到的JS知识，很多细节的点，可�
 如要进群或者请教问题，请[联系我](#联系我) （备注来自Github。请直入问题，工作时间不回复）。
 
 <p align="center">
-  <a href="#公众号"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-JavaGuide-lightgrey.svg" alt="公众号"></a>
+  <a href="#公众号"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-AlbertYang-lightgrey.svg" alt="公众号"></a>
   <a href="https://www.zhihu.com/people/yang-yang-yang-40-48"><img src="https://img.shields.io/badge/知乎-主页-important.svg" alt="知乎"></a>
   <a href="https://albertyang.blog.csdn.net/"><img src="https://img.shields.io/badge/CSDN-主页-critical.svg" alt="CSDN"></a>
 </p>
@@ -45,7 +45,7 @@ Logo下的小图标是使用[Shields.IO](https://shields.io/) 生成的。
 
 ### 联系我
 
-![个人微信](https://www.albertyy.com/img/weChat.jpg)
+![个人微信](https://www.albertyy.com/img/weChat2.jpg)
 
 
 ### 公众号
