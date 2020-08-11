@@ -363,7 +363,7 @@ eg:
  * @param cols {Array} 需要合并列的Index(序号)数组；从0开始计数，序号也包含。
  * @param isAllSome {Boolean} ：是否2个tr的cols必须完成一样才能进行合并。true：完成一样；false(默认)：不完全一样
  * @return void
- * @author polk6 2015/07/21
+ * @author Albert Yang 2020/08/10
  * @example
  * _________________                             _________________
  * |  年龄 |  姓名 |                             |  年龄 |  姓名 |
